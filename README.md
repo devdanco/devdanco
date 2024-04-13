@@ -12,7 +12,7 @@ Continuously expanding my skill set, I am currently immersed in the intricacies 
 
 🦀 **Rust:** Exploring the world of systems programming and unlocking the power of performance and safety.
 
-💡 **JavaScript & TypeScript:** Delving deeper into the realms of frontend and backend development, mastering the art of crafting dynamic and efficient web applications.
+💡 **JavaScript & TypeScript:** Learning to make websites look pretty and work well, both the stuff you see and the stuff you don't see, so they can do fun things.
 
 🐍 **Python:** Unleashing the full potential of Python for versatile scripting, automation, and data science applications.
 
