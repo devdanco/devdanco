@@ -6,7 +6,7 @@ Programmer, Analyst and Consultant
 
 I'm a theoretical physicist, and I'm passionate about blending the worlds of mathematics and programming. I really enjoy coding in Rust, JavaScript, TypeScript, and Python – it's like solving puzzles for me!
 
-Right now, I'm part of the awesome team at [Hotovo](https://hotovo.com), and my current project is on the [Gasp](https://www.gasp.xyz/). It's a wild ride, but I'm loving every moment of it. If you're curious about the intersection of mathematics and programming or just want to chat tech, feel free to reach out!
+Right now, I'm part of the awesome team at [Hotovo](https://hotovo.com). It's a wild ride, but I'm loving every moment of it. If you're curious about the intersection of mathematics and programming or just want to chat tech, feel free to reach out!
 
 Continuously expanding my skill set, I am currently immersed in the intricacies of:
 
